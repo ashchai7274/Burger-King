@@ -1,0 +1,36 @@
+
+.footer{
+    margin-right: 200px;
+}
+
+.foot{
+    display: flex;
+    /* background-color: #f5ebdc; */
+  
+}
+.foot .list{
+    margin-right: 700px;
+  
+}
+
+.list{
+    /* padding-top: 90px; */
+    width: 100%;
+    background-color: red;
+    height: 200px;
+}
+.list .para{
+    color: rgb(80, 25, 25);
+}
+.list h1{
+    color: rgb(80, 25, 25);
+    font-size: 50px;  
+}
+.last{
+    background-color: rgb(80, 25, 25);
+    color: white;
+   
+}
+.icon img{
+    width: 300px;
+}

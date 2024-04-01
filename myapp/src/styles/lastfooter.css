@@ -1,0 +1,12 @@
+.body{
+    background-color: rgb(84, 11, 11);
+    color: white;
+}
+
+.body p{
+    margin-left: 190px;
+}
+.body .sec p{
+    text-decoration: underline;
+    margin-left: 100px;
+}
